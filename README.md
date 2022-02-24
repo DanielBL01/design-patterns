@@ -17,3 +17,7 @@ Resources
 With design patterns, it's best to load your mind with various patterns and
 recognize places in designs and existing applications where you can apply
 them.
+
+
+Additionally, these are design patterns targeted for Object-Oriented software and specifically for Java. This means these patterns may not apply to 
+programming langauges like Go which use Structs rather than Classes.
