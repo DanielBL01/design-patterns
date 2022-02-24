@@ -10,5 +10,5 @@ Resources
 2. Favor composition over inheritance
 3. Program to interfaces, not implementations
 4. Strive for loosely coupled designs between objects that interact
-5. Classes should be open for extension but closed for modification
-6. Depend on abstractions. Do not depend on concrete classes
+5. Classes should be open for extension but closed for modification (Open-Closed Principle)
+6. Depend on abstractions. Do not depend on concrete classes (Dependency Inversion Principle)
